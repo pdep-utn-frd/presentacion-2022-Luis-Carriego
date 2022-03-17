@@ -5,6 +5,7 @@
   - Edad: *23*
   - Nro. de legajo: *11299*
   - Ciudad / Pueblo: *Los Cardales*
+  - Estado de Cuersada: Recursante
 # Descripcion
  - Me gusta todo lo referido a la informatica, ademas de ver series y peliculas, mi pasatiempo es hacer de vez en cuando origami y en mis tiempos libres jugar algun juego tanto en el celular como en la PC.
  
